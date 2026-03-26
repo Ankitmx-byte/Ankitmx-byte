@@ -42,32 +42,7 @@ AI-powered platform for internship & placement preparation
 - 📊 Profile Building  
 - 🤖 AI Integration  
 
-🔗 Project Link: https://your-project-link  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitmx-byteE&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmx-byte&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmx-byte&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitmx-byte&theme=tokyo-night" />
-</p>
-
+🔗 Project Link: 
 ---
 
 ## 🧠 Current Focus
