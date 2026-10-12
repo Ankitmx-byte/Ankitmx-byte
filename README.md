@@ -135,7 +135,7 @@ I enjoy turning ambitious ideas into useful digital products. My work spans full
   <a href="https://github.com/ankitmx-byte">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/ankitmx">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
